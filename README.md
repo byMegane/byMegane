@@ -3,6 +3,7 @@ Olá, eu sou o Rodrigo! 👋 ツ
 👨‍💻 Sobre mim
 
 🚀 Atualmente estudando Desenvolvimento de Sistemas
+
 💡 Gosto de resolver problemas com código e aprender coisas novas.
 
 🛠 Tecnologias e Ferramentas
@@ -10,7 +11,7 @@ Olá, eu sou o Rodrigo! 👋 ツ
 Aqui estão algumas das tecnologias que eu utilizo:
 
 <p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,html,css,react,python,git,github,vscode" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,html,css,react,python,git,github,vscode" alt="Minhas Tecnologias" />
 </p>
 
 📊 Minhas Estatísticas
@@ -24,7 +25,11 @@ Estes cartões atualizam sozinhos com base no seu uso do GitHub:
 
 🐍 Jogo da Cobrinha
 
-Aqui entra a animação que configuramos anteriormente:
+Aqui está a animação das minhas contribuições:
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/byMegane/Megane/output/github-contribution-grid-snake-dark.svg" alt="Jogo da Cobrinha" />
+</p>
 
 🤝 Conecte-se comigo
 
