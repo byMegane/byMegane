@@ -6,6 +6,7 @@
 
 <p align = "center"> Olá!! Meu nome é <b>Rodrigo Mateus</b>, mas também sou chamado de <b>Megane</b>, tenho 16 anos e moro em São Paulo. Estou atualmente no ensino médio, também estudando Desenvolvimento de Sistemas na escola ETEC Camargo Aranha. Estou sempre tentando aprender mais sobre programação!</p>
 
+<br>
 <p align="center">
   <img src="https://github.com/byMegane/Megane/blob/main/Pochita_enter.webp?raw=true" width="80px">
 </p>
@@ -31,7 +32,14 @@
 
 📊 Minhas Estatísticas
 
-Estes cartões atualizam sozinhos com base no seu uso do GitHub:
+<br>
+<div align="center">
+  <h2>📊 Minhas Estatísticas</h2>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byMegane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMegane&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+</div>
 
 <p align="left">
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DbyMegane%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Estatísticas do GitHub" />
