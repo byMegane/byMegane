@@ -1,4 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#FE7E48&height=60&section=header" width="100%"/>
+</p>
 <h1 align="center">
   <img src="https://github.com/byMegane/Megane/blob/main/Pochita_welcome.gif?raw=true" width="50px" align="center">
   <span>Bem-vindo!! ツ👋</span>
@@ -31,9 +34,6 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=60&section=header" width="100%"/>
-</p>
 
 <br>
 
@@ -47,9 +47,6 @@
 
 ![Snake animation](https://github.com/byMegane/Megane/blob/output/github-contribution-grid-snake-dark.svg)
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/byMegane/Megane/output/github-contribution-grid-snake-dark.svg" alt="Jogo da Cobrinha" />
-</p>
 
 🤝 Conecte-se comigo
 
