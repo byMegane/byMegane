@@ -1,10 +1,10 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <h1 align="center">
-  <img src="https://github.com/byMegane/Megane/blob/main/Pochita_welcome.gif?raw=true" width="70px" align="center">
+  <img src="https://github.com/byMegane/Megane/blob/main/Pochita_welcome.gif?raw=true" width="50px" align="center">
   <span>Bem-vindo!! ツ👋</span>
 </h1>
 
-👨‍💻 Sobre mim
+<p align = "center"> Olá!! Meu nome é <b>Rodrigo Mateus</b>, mas também sou chamado de <b>Megane</b>. Estou atualmente no ensino médio, também estudando Desenvolvimento de Sistemas na escola ETEC Camargo Aranha. Estou sempre tentando aprender mais sobre programação!</p>
 
 🚀 Atualmente estudando Desenvolvimento de Sistemas
 
