@@ -16,16 +16,27 @@
 <p> Estou aprendendo sobre<b> HTML</b>, <b>CSS </b>,<b> JavaScript</b>,<b> PHP</b> e <b>Java</b>. Também estou aprendendo a usar o <b>mySQL</b> para bancos de dados e utilizo o <b>Github</b> para publicar e salvar minhas tarefas.</p>
 
 <br>
-<div>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /> 
+<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=50&section=header" width="100%"/>
+</p>
+  <h2>🛠 Tecnologias e Ferramentas</h2>
   <br>
-  <img width="40" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <table align="center">
+    <tr>
+      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /><br>HTML5</td>
+      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" /><br>CSS3</td>
+      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /><br>JavaScript</td>
+      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" /><br>PHP</td>
+      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /><br>Java</td>
+    </tr>
+    <tr>
+      <td align="center"><img width="45" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><br>MySQL</td>
+      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" /><br>Git</td>
+      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /><br>GitHub</td>
+      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /><br>VS Code</td>
+    </tr>
+  </table>
 </div>
 
 <br>
