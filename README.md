@@ -54,6 +54,32 @@
   <img src="https://github.com/byMegane/byMegane/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+<br>
+
+<div align="center">
+  <h2>🎮 Meus Hobbies</h2>
+  <p>Além de programar, eu curto bastante passar meu tempo livre com:</p>
+  <div>
+    <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Volleyball.png" alt="Vôlei" />
+    &nbsp;&nbsp;
+    <img width="50" src="https://github.com/byMegane/byMegane/blob/main/Pochita_welcome.gif?raw=true" alt="Games" />
+    &nbsp;&nbsp;
+    <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Anime" />
+    &nbsp;&nbsp;
+    <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Musical%20Note.png" alt="Música" />
+  </div>
+  <p><b>Vôlei | Games | Animes | Músicas</b></p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🎵 Ouvindo Agora</h2>
+  <a href="https://open.spotify.com/user/317tly6m525atit66fpt6k3lyxge">
+    <img src="https://lanyard.cnrad.dev/api/764240536675811369?theme=dark&bg=1a1b27&animated=true" alt="Spotify Status" />
+  </a>
+</div>
+
 <div align="center">
   <h2>🤝 Conecte-se comigo</h2>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodrigoglasses@gmail.com" target="_blank">
@@ -67,4 +93,9 @@
   <a href="https://www.instagram.com/rodrigo_glasses/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
+</div>
+
+<div align="center">
+  <h3>Obrigado por visitar meu perfil!! ツ</h3>
+  <img width="110" src="https://github.com/byMegane/byMegane/blob/main/Pochita_enter.webp?raw=true">
 </div>
