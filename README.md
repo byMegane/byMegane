@@ -1,6 +1,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<img src = "https://github.com/byMegane/Megane/blob/main/Pochita_welcome.gif?raw=true" width = 220px alt = "header" align = "center" style="height: 220px;">
-<h1 align = "center"> <span>&nbsp;</span> Bem-vindo!! ツ👋 </h1>
+<h1 align="center">
+  <img src="https://github.com/byMegane/Megane/blob/main/Pochita_welcome.gif?raw=true" width="50px" align="center">
+  <span>Bem-vindo!! ツ👋</span>
+</h1>
 
 👨‍💻 Sobre mim
 
@@ -41,4 +43,3 @@ Estes cartões atualizam sozinhos com base no seu uso do GitHub:
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
 </a>
 </p>
-
