@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#FE7E48&height=60&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=%23FE7E48&height=120&section=header" width="100%"/>
 </p>
 <h1 align="center">
   <img src="https://github.com/byMegane/Megane/blob/main/Pochita_welcome.gif?raw=true" width="50px" align="center">
@@ -50,11 +50,12 @@
 
 🤝 Conecte-se comigo
 
-<p align="left">
-<a href="https://www.instagram.com/rodrigo_glasses/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:rodrigoglasses@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-</p>
+<div align="center">
+  <h2>🤝 Conecte-se comigo</h2>
+  <a href="https://www.instagram.com/rodrigo_glasses/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:rodrigoglasses@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
