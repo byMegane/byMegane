@@ -1,5 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
+<img src = "https://github.com/byMegane/Megane/blob/main/Pochita_welcome.gif?raw=true" width = "100%" alt = "header" align = "center" style="height: 220px;">
 Olá, eu sou o Rodrigo! 👋 ツ
 
 👨‍💻 Sobre mim
@@ -43,3 +43,4 @@ Aqui está a animação das minhas contribuições:
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
 </a>
 </p>
+
