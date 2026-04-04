@@ -11,8 +11,9 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/byMegane/Megane/blob/main/Pochita_enter.webp?raw=true" width="80px">
+  <img src="https://github.com/byMegane/Megane/blob/main/Pochita_enter.webp?raw=true" width="90px">
 </p>
+<br>
 
 <div align="center">
   <h2>Linguagens que estou aprendendo</h2>
@@ -48,14 +49,20 @@
 ![Snake animation](https://github.com/byMegane/Megane/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-🤝 Conecte-se comigo
-
 <div align="center">
   <h2>🤝 Conecte-se comigo</h2>
-  <a href="https://www.instagram.com/rodrigo_glasses/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodrigoglasses@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=%23D30445" alt="Gmail Badge">
+  </a> 
+  <span> &nbsp; </span>
+
+  <a href="https://discord.com/users/hikamber_megane" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=hikamber__megane&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge" alt="discord logo"/>
   </a>
-  <a href="mailto:rodrigoglasses@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <span> &nbsp; </span>
+
+  <a href="https://www.instagram.com/rodrigo_glasses/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
 </div>
