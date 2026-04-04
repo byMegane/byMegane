@@ -6,9 +6,9 @@
 
 <p align = "center"> Olá!! Meu nome é <b>Rodrigo Mateus</b>, mas também sou chamado de <b>Megane</b>, tenho 16 anos e moro em São Paulo. Estou atualmente no ensino médio, também estudando Desenvolvimento de Sistemas na escola ETEC Camargo Aranha. Estou sempre tentando aprender mais sobre programação!</p>
 
-<br>
-<img src="https://github.com/byMegane/Megane/blob/main/Pochita_enter.webp?raw=true" width="80px" align="center">
-<br>
+<p align="center">
+  <img src="https://github.com/byMegane/Megane/blob/main/Pochita_enter.webp?raw=true" width="80px">
+</p>
 
 <div align = "center">
 <h2>Linguagens que estou aprendendo </h2>
@@ -22,7 +22,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /> 
   <br>
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <img width="40" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
