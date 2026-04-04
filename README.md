@@ -28,19 +28,15 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
 
-
-
-📊 Minhas Estatísticas
-
 <br>
+
 <div align="center">
   <h2>📊 Minhas Estatísticas</h2>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byMegane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMegane&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byMegane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMegane&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
+<br>
 
 ![Snake animation](https://github.com/byMegane/Megane/blob/output/github-contribution-grid-snake-dark.svg)
 
