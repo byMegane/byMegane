@@ -62,13 +62,13 @@
   <div>
     <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Volleyball.png" alt="Vôlei" />
     &nbsp;&nbsp;
-    <img width="50" src="https://github.com/byMegane/byMegane/blob/main/Pochita_welcome.gif?raw=true" alt="Games" />
+    <img width="50" src="https://github.com/byMegane/byMegane/blob/main/controle.webp?raw=true" alt="Games" />
     &nbsp;&nbsp;
-    <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Anime" />
+    <img width="50" src="https://github.com/byMegane/byMegane/blob/main/Pochita_sentado.webp?raw=true" alt="Anime" />
     &nbsp;&nbsp;
-    <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Musical%20Note.png" alt="Música" />
+    <img width="50" src="https://github.com/byMegane/byMegane/blob/main/fone.png?raw=true" alt="Música" />
   </div>
-  <p><b>Vôlei | Games | Animes | Músicas</b></p>
+  <p><b>Vôlei | Jogos | Animes | Músicas</b></p>
 </div>
 
 <br>
@@ -82,20 +82,16 @@
 
 <div align="center">
   <h2>🤝 Conecte-se comigo</h2>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodrigoglasses@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=%23D30445" alt="Gmail Badge">
-  </a> 
-  &nbsp;
-  <a href="https://discord.com/users/764240536675811369" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Megane&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge" alt="discord logo"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/rodrigo_glasses/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodrigoglasses@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=%23D30445" alt="Gmail Badge"></a>&nbsp;
+  <a href="https://discord.com/users/764240536675811369" target="_blank"><img src="https://img.shields.io/static/v1?message=Megane&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge" alt="discord logo"/></a>&nbsp;
+  <a href="https://www.instagram.com/rodrigo_glasses/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
+  <br>
+  <a href="https://steamcommunity.com/profiles/76561199517348926/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"></a>
 </div>
 
 <div align="center">
   <h3>Obrigado por visitar meu perfil!! ツ</h3>
-  <img width="110" src="https://github.com/byMegane/byMegane/blob/main/Pochita_enter.webp?raw=true">
+  <img width="200" src="https://github.com/byMegane/byMegane/blob/main/pochita_e_denji.gif?raw=true">
 </div>
+
