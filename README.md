@@ -1,27 +1,26 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=%23FE7E48&height=80&section=header&v=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=%23FE7E48&height=110&section=header&v=4" width="100%"/>
 </p>
 
-<h1 align="center" style="margin-top: -30px;">
-  <img src="https://github.com/byMegane/byMegane/blob/main/Pochita_welcome.gif?raw=true" width="45px" style="vertical-align: middle;">
-  <span style="vertical-align: middle;">Bem-vindo!! ツ👋</span>
+<h1 align="center" style="margin-top: -35px;">
+  <img src="https://github.com/byMegane/byMegane/blob/main/Pochita_welcome.gif?raw=true" width="45px" style="vertical-align: -10%; margin-right: 10px;"><span style="vertical-align: middle;">Bem-vindo!! ツ👋</span>
 </h1>
 
 <p align="center"> 
-  Olá!! Meu nome é <b>Rodrigo Mateus</b>, mas também sou chamado de <b>Megane</b>, tenho 16 anos e moro em São Paulo. Estou atualmente no ensino médio, estudando Desenvolvimento de Sistemas na <b>ETEC Camargo Aranha</b>. Estou sempre tentando aprender mais sobre programação!
+  Olá!! Meu nome é <b>Rodrigo Mateus</b>, mas também sou chamado de <b>Megane</b>, tenho 16 anos e moro em São Paulo. Estou atualmente no ensino médio, também estudando Desenvolvimento de Sistemas na escola ETEC Camargo Aranha. Estou sempre tentando aprender mais sobre programação!
 </p>
 
-<br><br>
+<br>
 <p align="center">
   <img src="https://github.com/byMegane/byMegane/blob/main/Pochita_enter.webp?raw=true" width="90px">
 </p>
-<br><br>
+<br>
 
 <div align="center">
   <h2>Linguagens que estou aprendendo</h2>
-  <p>Estou aprendendo sobre <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b> e <b>Java</b>. Também uso <b>mySQL</b> e <b>Github</b>.</p>
+  <p>Estou aprendendo sobre <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b> e <b>Java</b>. Também estou aprendendo a usar o <b>mySQL</b> para bancos de dados e utilizo o <b>Github</b> para publicar e salvar minhas tarefas.</p>
 
   <p align="center">
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5" /> &nbsp;
@@ -54,8 +53,6 @@
 <p align="center">
   <img src="https://github.com/byMegane/byMegane/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-<br>
 
 <div align="center">
   <h2>🤝 Conecte-se comigo</h2>
