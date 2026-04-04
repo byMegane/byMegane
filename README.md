@@ -1,4 +1,37 @@
-# Megane
-Meu perfil
+Olá, eu sou o Rodrigo! ツ👋
+
+👨‍💻 Sobre mim
+
+🚀 Atualmente estudando Desenvolvimento de Sistemas
+💡 Gosto de resolver problemas com código e aprender coisas novas.
+
+🛠 Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias que eu utilizo:
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,html,css,react,python,git,github,vscode" />
+</p>
+
+📊 Minhas Estatísticas
+
+Estes cartões atualizam sozinhos com base no seu uso do GitHub:
+
+<p align="left">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DbyMegane%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DbyMegane%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight"/>
+</p>
+
+🐍 Jogo da Cobrinha
 
 ![Snake animation](https://github.com/byMegane/Megane/blob/output/github-contribution-grid-snake-dark.svg)
+
+🤝 Conecte-se comigo
+
+<p align="left">
+<a href="https://www.instagram.com/rodrigo_glasses/" target="_blank">
+<img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_960_720.png" />
+</a>
+<a href="mailto:rodrigoglasses@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+</p>
