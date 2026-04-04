@@ -41,10 +41,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMegane&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
-<p align="left">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DbyMegane%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Estatísticas do GitHub" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DbyMegane%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight" alt="Linguagens mais usadas" />
-</p>
 
 ![Snake animation](https://github.com/byMegane/Megane/blob/output/github-contribution-grid-snake-dark.svg)
 
