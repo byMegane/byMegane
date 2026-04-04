@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<img src = "https://github.com/byMegane/Megane/blob/main/Pochita_welcome.gif?raw=true" width = "100%" alt = "header" align = "center" style="height: 220px;">
-Olá, eu sou o Rodrigo! 👋 ツ
+<img src = "https://github.com/byMegane/Megane/blob/main/Pochita_welcome.gif?raw=true" width = 220px alt = "header" align = "center" style="height: 220px;">
+<h1 align = "center"> <span>&nbsp;</span> Bem-vindo!! ツ👋 </h1>
 
 👨‍💻 Sobre mim
 
@@ -25,9 +25,7 @@ Estes cartões atualizam sozinhos com base no seu uso do GitHub:
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DbyMegane%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight" alt="Linguagens mais usadas" />
 </p>
 
-🐍 Jogo da Cobrinha
-
-Aqui está a animação das minhas contribuições:
+![Snake animation](https://github.com/byMegane/Megane/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="left">
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/byMegane/Megane/output/github-contribution-grid-snake-dark.svg" alt="Jogo da Cobrinha" />
