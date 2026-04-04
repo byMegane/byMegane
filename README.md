@@ -57,8 +57,8 @@
   </a> 
   <span> &nbsp; </span>
 
-  <a href="https://discord.com/users/hikamber_megane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=hikamber__megane&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge" alt="discord logo"/>
+  <a href="https://discord.com/users/764240536675811369" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Megane&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge" alt="discord logo"/>
   </a>
   <span> &nbsp; </span>
 
