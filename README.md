@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=%23FE7E48&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=%23FE7E48&height=150&section=header&v=1" width="100%"/>
 </p>
 <h1 align="center">
   <img src="https://github.com/byMegane/Megane/blob/main/Pochita_welcome.gif?raw=true" width="50px" align="center">
