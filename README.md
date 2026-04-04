@@ -35,13 +35,18 @@
   </p>
 </div>
 
-
 <br>
 
 <div align="center">
   <h2>📊 Minhas Estatísticas</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byMegane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMegane&layout=compact&langs_count=7&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=byMegane&theme=tokyonight&fire=FE7E48&ring=FE7E48&sideNums=FE7E48&stroke=FE7E48&currStreakLabel=FE7E48" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=byMegane&show_icons=true&theme=tokyonight&border_color=FE7E48&icon_color=FE7E48&title_color=FE7E48" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=byMegane&layout=compact&langs_count=7&theme=tokyonight&border_color=FE7E48&title_color=FE7E48" />
 </div>
 
 <br>
