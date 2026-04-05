@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=%23FE7E48&height=110&section=header&v=4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=%23F54927&height=110&section=header&v=4" width="100%"/>
 </p>
 
 <h1 align="center" style="margin-top: -35px;">
