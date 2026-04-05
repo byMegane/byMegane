@@ -84,11 +84,32 @@
 
 <br>
 
+<br>
+
+<br>
+
 <div align="center">
-  <a href="https://open.spotify.com/user/317tly6m525atit66fpt6k3lyxge">
-    <img src="https://lanyard.cnrad.dev/api/764240536675811369?theme=dark&bg=1a1b27&animated=true" alt="Spotify Status" />
-  </a>
+<table align="center" border="0">
+<tr>
+<td align="center" width="300" style="vertical-align: top;">
+<h3>👀 Visitas no meu perfil</h3>
+<img src="https://komarev.com/ghpvc/?username=byMegane&color=f54927&style=flat-square&label=Visitas" alt="Visitantes" />
+</td>
+<td align="center" width="450" style="vertical-align: top;">
+<h3>🎮 Minha atividade:</h3>
+<a href="https://discord.com/users/764240536675811369">
+<img src="https://lanyard.cnrad.dev/api/764240536675811369?theme=dark&bg=1a1b27&animated=true" alt="Discord Status">
+</a>
+</td>
+</tr>
+</table>
 </div>
+
+<br>
+
+<br>
+
+<br>
 
 
 <div align="center">
