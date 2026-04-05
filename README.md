@@ -13,8 +13,9 @@
 </p>
 
 <br>
+<br>
 <p align="center">
-  <img src="https://github.com/byMegane/byMegane/blob/main/Pochita_enter.webp?raw=true" width="90px">
+  <img src="https://github.com/byMegane/byMegane/blob/main/Pochita_enter.webp?raw=true" width="100px">
 </p>
 <br>
 
@@ -59,26 +60,36 @@
 <div align="center">
   <h2>🎮 Meus Hobbies</h2>
   <p>Além de programar, eu curto bastante passar meu tempo livre com:</p>
-  <div>
-    <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Volleyball.png" alt="Vôlei" />
-    &nbsp;&nbsp;
-    <img width="50" src="https://github.com/byMegane/byMegane/blob/main/controle.webp?raw=true" alt="Games" />
-    &nbsp;&nbsp;
-    <img width="50" src="https://github.com/byMegane/byMegane/blob/main/Pochita_sentado.webp?raw=true" alt="Anime" />
-    &nbsp;&nbsp;
-    <img width="50" src="https://github.com/byMegane/byMegane/blob/main/fone.png?raw=true" alt="Música" />
-  </div>
-  <p><b>Vôlei | Jogos | Animes | Músicas</b></p>
+  <table align="center">
+    <tr>
+      <td align="center" width="120">
+        <img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Volleyball.png" alt="Vôlei" /><br>
+        <b>Vôlei</b>
+      </td>
+      <td align="center" width="120">
+        <img width="60" src="https://github.com/byMegane/byMegane/blob/main/controle.webp?raw=true" alt="Games" /><br>
+        <b>Jogos</b>
+      </td>
+      <td align="center" width="120">
+        <img width="35" src="https://github.com/byMegane/byMegane/blob/main/Pochita_sentado.webp?raw=true" alt="Anime" /><br>
+        <b>Animes</b>
+      </td>
+      <td align="center" width="120">
+        <img width="50" src="https://github.com/byMegane/byMegane/blob/main/fone.png?raw=true" alt="Música" /><br>
+        <b>Músicas</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>🎵 Ouvindo Agora</h2>
   <a href="https://open.spotify.com/user/317tly6m525atit66fpt6k3lyxge">
     <img src="https://lanyard.cnrad.dev/api/764240536675811369?theme=dark&bg=1a1b27&animated=true" alt="Spotify Status" />
   </a>
 </div>
+
 
 <div align="center">
   <h2>🤝 Conecte-se comigo</h2>
