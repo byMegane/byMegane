@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <h2>Linguagens que estou aprendendo</h2>
+  <h2>Linguagens e ferramentas que estou usando e aprendendo</h2>
   <p>Estou aprendendo sobre <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b> e <b>Java</b>. Também estou aprendendo a usar o <b>mySQL</b> para bancos de dados e utilizo o <b>Github</b> para publicar e salvar minhas tarefas.</p>
 
   <p align="center">
