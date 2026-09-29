@@ -38,7 +38,6 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" />
   </p>
 </div>
-
 <br>
 
 <div align="center">
